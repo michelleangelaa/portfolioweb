@@ -1,0 +1,321 @@
+{
+ "file": {
+  "fileKey": "9GnxHhVR7PP7xBpyDRhGgu",
+  "page": {
+   "name": "[Portfolio] Website",
+   "id": "935:244"
+  },
+  "url": "https://www.figma.com/design/9GnxHhVR7PP7xBpyDRhGgu/?node-id=935-244"
+ },
+ "sections": {
+  "readme": "939:28",
+  "foundations": "939:29",
+  "components": "939:30",
+  "desktop": "939:31",
+  "mobile": "939:32",
+  "assets": "939:33",
+  "assetsH": 2717,
+  "componentsW": 8238
+ },
+ "collections": {
+  "primitives": "VariableCollectionId:941:28",
+  "color": "VariableCollectionId:941:29",
+  "spacing": "VariableCollectionId:941:30",
+  "shape": "VariableCollectionId:941:31",
+  "typography": "VariableCollectionId:941:32"
+ },
+ "components": {
+  "Icon / Mail": "951:35",
+  "Icon / LinkedIn": "951:38",
+  "Icon / Dribbble": "951:42",
+  "Icon / GitHub": "951:45",
+  "Tag": "951:66",
+  "Button": "953:32",
+  "NavLink": "953:39",
+  "Link / CTA": "953:55",
+  "Link / External": "953:66",
+  "Link / Quiet": "953:75",
+  "SocialButton": "954:37",
+  "Avatar": "954:40",
+  "SectionHeading": "954:45",
+  "Card": "954:54",
+  "Header": "956:104",
+  "Footer": "956:127",
+  "Figure": "965:90",
+  "Metric": "968:79",
+  "ProcessStep": "968:92",
+  "ExperienceItem": "968:93",
+  "StackItem": "968:99",
+  "AwardCard": "970:76",
+  "InitiativeCard": "970:107",
+  "NextLink": "970:118",
+  "ProjectCard": {
+   "setId": "988:326",
+   "key": "a05941a9498009444e133263ba049b1924f0de9f",
+   "pos": [
+    3400,
+    340
+   ],
+   "variants": {
+    "cyan/desktop": "988:66",
+    "amber/desktop": "988:92",
+    "pink/desktop": "988:118",
+    "indigo/desktop": "988:144",
+    "green/desktop": "988:170",
+    "cyan/mobile": "988:196",
+    "amber/mobile": "988:222",
+    "pink/mobile": "988:248",
+    "indigo/mobile": "988:274",
+    "green/mobile": "988:300"
+   },
+   "props": {
+    "Org": "Org#988:0",
+    "Title": "Title#988:11",
+    "Blurb": "Blurb#988:22",
+    "Show tag 3": "Show tag 3#988:33",
+    "Show tag 4": "Show tag 4#988:44",
+    "Show figure": "Show figure#988:55"
+   }
+  },
+  "ProfileRail": {
+   "setId": "989:228",
+   "key": "3415c5dc24b1948533e8cdb59d32107be98d7844",
+   "pos": [
+    4600,
+    340
+   ],
+   "variants": {
+    "desktop": "989:156",
+    "mobile": "989:192"
+   }
+  },
+  "CaseStudyRail": {
+   "setId": "989:273",
+   "key": "b4d6f023049fa62267548d68e4cf1e1c8c892a0d",
+   "pos": [
+    5400,
+    340
+   ],
+   "variants": {
+    "desktop": "989:229",
+    "mobile": "989:251"
+   }
+  },
+  "OtherRail": {
+   "setId": "990:208",
+   "key": "17723b14077c92f9445754b3736106462bcf997d",
+   "pos": [
+    4600,
+    1100
+   ],
+   "variants": {
+    "desktop": "990:180",
+    "mobile": "990:194"
+   }
+  },
+  "PageShell": {
+   "setId": "990:267",
+   "key": "8828b9ae7d5eafbed090e7b98c5e2b0608f7fd0e",
+   "pos": [
+    6200,
+    340
+   ],
+   "variants": {
+    "desktop": "990:209",
+    "mobile": "990:238"
+   },
+   "shellIds": [
+    "990:210",
+    "990:239"
+   ]
+  }
+ },
+ "pages": {
+  "work/1440": {
+   "id": "991:230",
+   "h": 3430
+  },
+  "work/390": {
+   "id": "991:406",
+   "h": 3684
+  },
+  "about/1440": {
+   "id": "992:516",
+   "h": 1277
+  },
+  "about/390": {
+   "id": "992:632",
+   "h": 2642
+  },
+  "other/1440": {
+   "id": "993:640",
+   "h": 5166
+  },
+  "other/390": {
+   "id": "993:903",
+   "h": 5771
+  },
+  "case-tiket/1440": {
+   "id": "994:1042",
+   "h": 1804
+  },
+  "case-tiket/390": {
+   "id": "994:1152",
+   "h": 2445
+  },
+  "case-pvs/1440": {
+   "id": "994:1262",
+   "h": 2953
+  },
+  "case-pvs/390": {
+   "id": "994:1389",
+   "h": 3193
+  },
+  "404/1440": {
+   "id": "995:1368",
+   "h": 752
+  },
+  "404/390": {
+   "id": "995:1415",
+   "h": 736
+  }
+ },
+ "assets": {
+  "avatar": {
+   "nodeId": null,
+   "imageHash": "132f61f219d7ef3356abf8d952047312df7dc4d6",
+   "size": [
+    224,
+    224
+   ]
+  },
+  "tiket-pdp-before": {
+   "nodeId": null,
+   "imageHash": "5813d6f5b738198f67d95196ab273d1f6d061952",
+   "size": [
+    299,
+    648
+   ]
+  },
+  "tiket-pdp-after": {
+   "nodeId": null,
+   "imageHash": "13f70f8ca500d1b98f309ffce6abd835ad516cf0",
+   "size": [
+    332,
+    720
+   ]
+  },
+  "tiket-ugc-before": {
+   "nodeId": null,
+   "imageHash": "6c5af3c5c023a0dc20983040ee0e082c584a555d",
+   "size": [
+    266,
+    576
+   ]
+  },
+  "tiket-ugc-after": {
+   "nodeId": null,
+   "imageHash": "b8ded5611790c26059b8258f88501a3ba6cdb4a5",
+   "size": [
+    266,
+    576
+   ]
+  },
+  "hikewise-field": {
+   "nodeId": null,
+   "imageHash": "72ff851de0085c1a837c3d29f26444dd0052ffaa",
+   "size": [
+    450,
+    253
+   ]
+  },
+  "pvs-site": {
+   "nodeId": null,
+   "imageHash": "152b95a58c6168c031a54f0f0ee9698a10564894",
+   "size": [
+    810,
+    469
+   ]
+  },
+  "pvs-brand": {
+   "nodeId": null,
+   "imageHash": "945da6b2129983a2fec173c8db8920fe9c7665a9",
+   "size": [
+    900,
+    506
+   ]
+  },
+  "ebon-screens": {
+   "nodeId": null,
+   "imageHash": "1c05ab98e45a8e2973bd595cf0419f92962c98cf",
+   "size": [
+    630,
+    344
+   ]
+  },
+  "mammam-screens": {
+   "nodeId": null,
+   "imageHash": "7cb2d941678ce12d54c2ed52bc68a8172235e9a3",
+   "size": [
+    720,
+    405
+   ]
+  },
+  "ccc-hall": {
+   "nodeId": null,
+   "imageHash": "db4a60a1f7168ad1f0305f1f6db3952bbfc02cfe",
+   "size": [
+    540,
+    304
+   ]
+  },
+  "heist-minigame": {
+   "nodeId": null,
+   "imageHash": "f2eb415fcd670d2371c9d3fff6550efcef1b420b",
+   "size": [
+    630,
+    408
+   ]
+  },
+  "mangrove-festival": {
+   "nodeId": "977:66",
+   "imageHash": "cfaa486f1aeb79ff31b5f8fe0f2144da2e7e9dcb",
+   "size": [
+    448,
+    448
+   ]
+  },
+  "climate-award": {
+   "nodeId": "978:66",
+   "imageHash": "ab3a2c99d886f682041e17be6108b4e534c30185",
+   "size": [
+    576,
+    323
+   ]
+  },
+  "hackfest-google": {
+   "nodeId": "980:66",
+   "imageHash": "d8bcd3a14c6d20358872f20c1824e0ed8fe7e852",
+   "size": [
+    448,
+    298
+   ]
+  },
+  "pvs-course": {
+   "nodeId": "983:66",
+   "imageHash": "e0e35002bfccfd029ec23fad4acd321f95db9d54",
+   "size": [
+    266,
+    576
+   ]
+  },
+  "pvs-course-offer": {
+   "nodeId": "986:66",
+   "imageHash": "72f847fe9e92925d2d98260f32c6ad3d4228a0f7",
+   "size": [
+    299,
+    648
+   ]
+  }
+ }
+}

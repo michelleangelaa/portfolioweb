@@ -1,0 +1,2784 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$description": "Design tokens for michelleangelaa/webportfolio, exported from the Figma file 9GnxHhVR7PP7xBpyDRhGgu (page '[Portfolio] Website'). Values are the Light mode; Dark values live in $extensions.figma.modes. References use Figma variable names.",
+  "primitives": {
+    "neutral": {
+      "0": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#ffffff"
+            }
+          }
+        }
+      },
+      "25": {
+        "$type": "color",
+        "$value": "#fdfdfd",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#fdfdfd"
+            }
+          }
+        }
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#fafafa",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#fafafa"
+            }
+          }
+        }
+      },
+      "75": {
+        "$type": "color",
+        "$value": "#f4f4f4",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#f4f4f4"
+            }
+          }
+        }
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#f2f2f2",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#f2f2f2"
+            }
+          }
+        }
+      },
+      "150": {
+        "$type": "color",
+        "$value": "#ededed",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#ededed"
+            }
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e8e8e8",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#e8e8e8"
+            }
+          }
+        }
+      },
+      "250": {
+        "$type": "color",
+        "$value": "#dcdcdc",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#dcdcdc"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d8d8d8",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#d8d8d8"
+            }
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a3a3a3",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#a3a3a3 (proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#767676",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#767676"
+            }
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#5f5f5f",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#5f5f5f"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#3a3b40",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#3a3b40 (proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#262626",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#262626"
+            }
+          }
+        }
+      },
+      "850": {
+        "$type": "color",
+        "$value": "#242529",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#242529"
+            }
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#1c1c1f",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#1c1c1f (proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#141416",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#141416 (proposed, dark mode)"
+            }
+          }
+        }
+      }
+    },
+    "cream": {
+      "100": {
+        "$type": "color",
+        "$value": "#f3eac8",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#F3EAC8"
+            }
+          }
+        }
+      }
+    },
+    "cyan": {
+      "50": {
+        "$type": "color",
+        "$value": "#ebfafa",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.cyan.bg"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#7ed4e6",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#00647a",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.cyan.fg"
+            }
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#0b2a31",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      }
+    },
+    "amber": {
+      "50": {
+        "$type": "color",
+        "$value": "#fffbf3",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.amber.bg"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#e5c777",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#5b4610",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.amber.fg"
+            }
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#2e2614",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      }
+    },
+    "pink": {
+      "50": {
+        "$type": "color",
+        "$value": "#fff2fb",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.pink.bg"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#f59bd0",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#b3006b",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.pink.fg"
+            }
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#3a1030",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      }
+    },
+    "indigo": {
+      "50": {
+        "$type": "color",
+        "$value": "#f3f2f9",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.indigo.bg"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#aface8",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#33308f",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.indigo.fg"
+            }
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#1e1d3d",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      }
+    },
+    "green": {
+      "50": {
+        "$type": "color",
+        "$value": "#effaf3",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.green.bg"
+            }
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#86d7ae",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0e6340",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "tints.green.fg"
+            }
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#10301f",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "(proposed, dark mode)"
+            }
+          }
+        }
+      }
+    },
+    "lime": {
+      "50": {
+        "$type": "color",
+        "$value": "#f3f7de",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#F3F7DE (hero gradient stop 0%)"
+            }
+          }
+        }
+      }
+    },
+    "peach": {
+      "50": {
+        "$type": "color",
+        "$value": "#fbf0d6",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#FBF0D6 (hero gradient stop 48%)"
+            }
+          }
+        }
+      }
+    },
+    "rose": {
+      "50": {
+        "$type": "color",
+        "$value": "#f8e6ee",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Primitives",
+            "scopes": [],
+            "codeSyntax": {
+              "WEB": "#F8E6EE (hero gradient stop 100%)"
+            }
+          }
+        }
+      }
+    },
+    "alpha": {
+      "black": {
+        "3": {
+          "$type": "color",
+          "$value": "#00000008",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Primitives",
+              "scopes": [
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "rgb(0 0 0 / 0.03)"
+              }
+            }
+          }
+        },
+        "4-5": {
+          "$type": "color",
+          "$value": "#0000000b",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Primitives",
+              "scopes": [
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "rgb(0 0 0 / 0.045)"
+              }
+            }
+          }
+        },
+        "6": {
+          "$type": "color",
+          "$value": "#0000000f",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Primitives",
+              "scopes": [
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "rgb(0 0 0 / 0.06)"
+              }
+            }
+          }
+        },
+        "8": {
+          "$type": "color",
+          "$value": "#00000014",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Primitives",
+              "scopes": [
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "rgba(0,0,0,0.08)"
+              }
+            }
+          }
+        },
+        "28": {
+          "$type": "color",
+          "$value": "#00000047",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Primitives",
+              "scopes": [
+                "EFFECT_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "rgb(0 0 0 / 0.28)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "color": {
+    "bg": {
+      "page": {
+        "$type": "color",
+        "$value": "{neutral/50}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/50}",
+              "Dark": "{neutral/950}"
+            },
+            "resolved": {
+              "Light": "#fafafa",
+              "Dark": "#141416"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-page)"
+            }
+          }
+        }
+      },
+      "shell": {
+        "$type": "color",
+        "$value": "{neutral/25}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/25}",
+              "Dark": "{neutral/900}"
+            },
+            "resolved": {
+              "Light": "#fdfdfd",
+              "Dark": "#1c1c1f"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-shell)"
+            }
+          }
+        }
+      },
+      "card": {
+        "$type": "color",
+        "$value": "{neutral/0}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/0}",
+              "Dark": "{neutral/850}"
+            },
+            "resolved": {
+              "Light": "#ffffff",
+              "Dark": "#242529"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-card)"
+            }
+          }
+        }
+      },
+      "frame-fill": {
+        "$type": "color",
+        "$value": "{neutral/75}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/75}",
+              "Dark": "{neutral/900}"
+            },
+            "resolved": {
+              "Light": "#f4f4f4",
+              "Dark": "#1c1c1f"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "#f4f4f4 /* .frame--fill */"
+            }
+          }
+        }
+      },
+      "selection": {
+        "$type": "color",
+        "$value": "{neutral/200}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/200}",
+              "Dark": "{neutral/700}"
+            },
+            "resolved": {
+              "Light": "#e8e8e8",
+              "Dark": "#3a3b40"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "#e8e8e8 /* ::selection */"
+            }
+          }
+        }
+      },
+      "accent": {
+        "$type": "color",
+        "$value": "{neutral/800}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/800}",
+              "Dark": "{neutral/100}"
+            },
+            "resolved": {
+              "Light": "#262626",
+              "Dark": "#f2f2f2"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink) /* bg-ink */"
+            }
+          }
+        }
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{neutral/850}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/850}",
+              "Dark": "{neutral/0}"
+            },
+            "resolved": {
+              "Light": "#242529",
+              "Dark": "#ffffff"
+            },
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-dark) /* bg-dark */"
+            }
+          }
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "{neutral/800}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/800}",
+              "Dark": "{neutral/100}"
+            },
+            "resolved": {
+              "Light": "#262626",
+              "Dark": "#f2f2f2"
+            },
+            "scopes": [
+              "TEXT_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink)"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{neutral/600}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/600}",
+              "Dark": "{neutral/300}"
+            },
+            "resolved": {
+              "Light": "#5f5f5f",
+              "Dark": "#d8d8d8"
+            },
+            "scopes": [
+              "TEXT_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink-soft)"
+            }
+          }
+        }
+      },
+      "muted": {
+        "$type": "color",
+        "$value": "{neutral/500}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/500}",
+              "Dark": "{neutral/400}"
+            },
+            "resolved": {
+              "Light": "#767676",
+              "Dark": "#a3a3a3"
+            },
+            "scopes": [
+              "TEXT_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink-faint) /* .meta */"
+            }
+          }
+        }
+      },
+      "on-accent": {
+        "$type": "color",
+        "$value": "{neutral/0}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/0}",
+              "Dark": "{neutral/950}"
+            },
+            "resolved": {
+              "Light": "#ffffff",
+              "Dark": "#141416"
+            },
+            "scopes": [
+              "TEXT_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "#ffffff /* text-white */"
+            }
+          }
+        }
+      },
+      "on-inverse-title": {
+        "$type": "color",
+        "$value": "{cream/100}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{cream/100}",
+              "Dark": "{neutral/800}"
+            },
+            "resolved": {
+              "Light": "#f3eac8",
+              "Dark": "#262626"
+            },
+            "scopes": [
+              "TEXT_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "#F3EAC8"
+            }
+          }
+        }
+      },
+      "on-inverse-body": {
+        "$type": "color",
+        "$value": "{neutral/300}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/300}",
+              "Dark": "{neutral/600}"
+            },
+            "resolved": {
+              "Light": "#d8d8d8",
+              "Dark": "#5f5f5f"
+            },
+            "scopes": [
+              "TEXT_FILL"
+            ],
+            "codeSyntax": {
+              "WEB": "#D8D8D8"
+            }
+          }
+        }
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "{neutral/150}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/150}",
+              "Dark": "{neutral/700}"
+            },
+            "resolved": {
+              "Light": "#ededed",
+              "Dark": "#3a3b40"
+            },
+            "scopes": [
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-line)"
+            }
+          }
+        }
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{neutral/100}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/100}",
+              "Dark": "{neutral/800}"
+            },
+            "resolved": {
+              "Light": "#f2f2f2",
+              "Dark": "#262626"
+            },
+            "scopes": [
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-line-soft)"
+            }
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{neutral/250}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/250}",
+              "Dark": "{neutral/600}"
+            },
+            "resolved": {
+              "Light": "#dcdcdc",
+              "Dark": "#5f5f5f"
+            },
+            "scopes": [
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "#dcdcdc /* a.card:hover */"
+            }
+          }
+        }
+      },
+      "avatar": {
+        "$type": "color",
+        "$value": "{neutral/0}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/0}",
+              "Dark": "{neutral/900}"
+            },
+            "resolved": {
+              "Light": "#ffffff",
+              "Dark": "#1c1c1f"
+            },
+            "scopes": [
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "#ffffff /* border-white */"
+            }
+          }
+        }
+      },
+      "focus": {
+        "$type": "color",
+        "$value": "{neutral/800}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/800}",
+              "Dark": "{neutral/100}"
+            },
+            "resolved": {
+              "Light": "#262626",
+              "Dark": "#f2f2f2"
+            },
+            "scopes": [
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink) /* :focus-visible */"
+            }
+          }
+        }
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{neutral/800}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/800}",
+              "Dark": "{neutral/100}"
+            },
+            "resolved": {
+              "Light": "#262626",
+              "Dark": "#f2f2f2"
+            },
+            "scopes": [
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink) /* hover:border-ink */"
+            }
+          }
+        }
+      }
+    },
+    "icon": {
+      "default": {
+        "$type": "color",
+        "$value": "{neutral/600}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/600}",
+              "Dark": "{neutral/300}"
+            },
+            "resolved": {
+              "Light": "#5f5f5f",
+              "Dark": "#d8d8d8"
+            },
+            "scopes": [
+              "SHAPE_FILL",
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink-soft) /* currentColor */"
+            }
+          }
+        }
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{neutral/800}",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Color",
+            "modes": {
+              "Light": "{neutral/800}",
+              "Dark": "{neutral/100}"
+            },
+            "resolved": {
+              "Light": "#262626",
+              "Dark": "#f2f2f2"
+            },
+            "scopes": [
+              "SHAPE_FILL",
+              "STROKE_COLOR"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--color-ink)"
+            }
+          }
+        }
+      }
+    },
+    "tint": {
+      "cyan": {
+        "bg": {
+          "$type": "color",
+          "$value": "{cyan/50}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{cyan/50}",
+                "Dark": "{cyan/900}"
+              },
+              "resolved": {
+                "Light": "#ebfafa",
+                "Dark": "#0b2a31"
+              },
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-bg) /* tints.cyan.bg */"
+              }
+            }
+          }
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{cyan/700}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{cyan/700}",
+                "Dark": "{cyan/300}"
+              },
+              "resolved": {
+                "Light": "#00647a",
+                "Dark": "#7ed4e6"
+              },
+              "scopes": [
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-fg) /* tints.cyan.fg */"
+              }
+            }
+          }
+        }
+      },
+      "amber": {
+        "bg": {
+          "$type": "color",
+          "$value": "{amber/50}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{amber/50}",
+                "Dark": "{amber/900}"
+              },
+              "resolved": {
+                "Light": "#fffbf3",
+                "Dark": "#2e2614"
+              },
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-bg) /* tints.amber.bg */"
+              }
+            }
+          }
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{amber/700}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{amber/700}",
+                "Dark": "{amber/300}"
+              },
+              "resolved": {
+                "Light": "#5b4610",
+                "Dark": "#e5c777"
+              },
+              "scopes": [
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-fg) /* tints.amber.fg */"
+              }
+            }
+          }
+        }
+      },
+      "pink": {
+        "bg": {
+          "$type": "color",
+          "$value": "{pink/50}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{pink/50}",
+                "Dark": "{pink/900}"
+              },
+              "resolved": {
+                "Light": "#fff2fb",
+                "Dark": "#3a1030"
+              },
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-bg) /* tints.pink.bg */"
+              }
+            }
+          }
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{pink/700}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{pink/700}",
+                "Dark": "{pink/300}"
+              },
+              "resolved": {
+                "Light": "#b3006b",
+                "Dark": "#f59bd0"
+              },
+              "scopes": [
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-fg) /* tints.pink.fg */"
+              }
+            }
+          }
+        }
+      },
+      "indigo": {
+        "bg": {
+          "$type": "color",
+          "$value": "{indigo/50}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{indigo/50}",
+                "Dark": "{indigo/900}"
+              },
+              "resolved": {
+                "Light": "#f3f2f9",
+                "Dark": "#1e1d3d"
+              },
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-bg) /* tints.indigo.bg */"
+              }
+            }
+          }
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{indigo/700}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{indigo/700}",
+                "Dark": "{indigo/300}"
+              },
+              "resolved": {
+                "Light": "#33308f",
+                "Dark": "#aface8"
+              },
+              "scopes": [
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-fg) /* tints.indigo.fg */"
+              }
+            }
+          }
+        }
+      },
+      "green": {
+        "bg": {
+          "$type": "color",
+          "$value": "{green/50}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{green/50}",
+                "Dark": "{green/900}"
+              },
+              "resolved": {
+                "Light": "#effaf3",
+                "Dark": "#10301f"
+              },
+              "scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-bg) /* tints.green.bg */"
+              }
+            }
+          }
+        },
+        "fg": {
+          "$type": "color",
+          "$value": "{green/700}",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Color",
+              "modes": {
+                "Light": "{green/700}",
+                "Dark": "{green/300}"
+              },
+              "resolved": {
+                "Light": "#0e6340",
+                "Dark": "#86d7ae"
+              },
+              "scopes": [
+                "SHAPE_FILL",
+                "TEXT_FILL",
+                "STROKE_COLOR"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--tag-fg) /* tints.green.fg */"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "spacing": {
+    "space": {
+      "0-5": {
+        "$type": "dimension",
+        "$value": "2px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 0.5) /* 2px */"
+            }
+          }
+        }
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 1) /* 4px */"
+            }
+          }
+        }
+      },
+      "1-5": {
+        "$type": "dimension",
+        "$value": "6px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 1.5) /* 6px */"
+            }
+          }
+        }
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 2) /* 8px */"
+            }
+          }
+        }
+      },
+      "2-5": {
+        "$type": "dimension",
+        "$value": "10px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 2.5) /* 10px */"
+            }
+          }
+        }
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 3) /* 12px */"
+            }
+          }
+        }
+      },
+      "3-5": {
+        "$type": "dimension",
+        "$value": "14px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 3.5) /* 14px */"
+            }
+          }
+        }
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 4) /* 16px */"
+            }
+          }
+        }
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 5) /* 20px */"
+            }
+          }
+        }
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 6) /* 24px */"
+            }
+          }
+        }
+      },
+      "7": {
+        "$type": "dimension",
+        "$value": "28px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 7) /* 28px */"
+            }
+          }
+        }
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 8) /* 32px */"
+            }
+          }
+        }
+      },
+      "9": {
+        "$type": "dimension",
+        "$value": "36px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 9) /* 36px */"
+            }
+          }
+        }
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 10) /* 40px */"
+            }
+          }
+        }
+      },
+      "11": {
+        "$type": "dimension",
+        "$value": "44px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 11) /* 44px */"
+            }
+          }
+        }
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 12) /* 48px */"
+            }
+          }
+        }
+      },
+      "14": {
+        "$type": "dimension",
+        "$value": "56px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "calc(var(--spacing) * 14) /* 56px */"
+            }
+          }
+        }
+      },
+      "1-25": {
+        "$type": "dimension",
+        "$value": "5px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "GAP"
+            ],
+            "codeSyntax": {
+              "WEB": "0.3rem (4.8px) — .tag padding-block"
+            }
+          }
+        }
+      }
+    },
+    "size": {
+      "shell-max": {
+        "$type": "dimension",
+        "$value": "1180px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "max-width: 1180px (.shell)"
+            }
+          }
+        }
+      },
+      "rail": {
+        "$type": "dimension",
+        "$value": "344px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "21.5rem (.layout rail column)"
+            }
+          }
+        }
+      },
+      "content-desktop": {
+        "$type": "dimension",
+        "$value": "698px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "minmax(0,1fr) column at 1440"
+            }
+          }
+        }
+      },
+      "avatar-lg": {
+        "$type": "dimension",
+        "$value": "84px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "h-[5.25rem] w-[5.25rem]"
+            }
+          }
+        }
+      },
+      "avatar-md": {
+        "$type": "dimension",
+        "$value": "64px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "h-16 w-16"
+            }
+          }
+        }
+      },
+      "icon-button": {
+        "$type": "dimension",
+        "$value": "40px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "h-10 w-10"
+            }
+          }
+        }
+      },
+      "icon-md": {
+        "$type": "dimension",
+        "$value": "17px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "17px (icons.tsx)"
+            }
+          }
+        }
+      },
+      "icon-sm": {
+        "$type": "dimension",
+        "$value": "16px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "16px (LinkedInIcon)"
+            }
+          }
+        }
+      },
+      "hero-band": {
+        "$type": "dimension",
+        "$value": "144px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "h-36"
+            }
+          }
+        }
+      },
+      "shot-tall": {
+        "$type": "dimension",
+        "$value": "384px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "clamp(14rem, 30vw, 24rem) at 1440"
+            }
+          }
+        }
+      },
+      "shot-tall-mobile": {
+        "$type": "dimension",
+        "$value": "224px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "clamp(14rem, 30vw, 24rem) at 390"
+            }
+          }
+        }
+      },
+      "viewport-desktop": {
+        "$type": "dimension",
+        "$value": "1440px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "design canvas, desktop"
+            }
+          }
+        }
+      },
+      "viewport-mobile": {
+        "$type": "dimension",
+        "$value": "390px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "design canvas, mobile"
+            }
+          }
+        }
+      },
+      "text-measure": {
+        "$type": "dimension",
+        "$value": "620px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Spacing",
+            "scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "codeSyntax": {
+              "WEB": "max-w-[62ch] at 16px"
+            }
+          }
+        }
+      }
+    }
+  },
+  "shape": {
+    "radius": {
+      "shell": {
+        "$type": "dimension",
+        "$value": "28px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Shape",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--radius-shell) /* 1.75rem */"
+            }
+          }
+        }
+      },
+      "card": {
+        "$type": "dimension",
+        "$value": "18px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Shape",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--radius-card) /* 1.125rem */"
+            }
+          }
+        }
+      },
+      "frame": {
+        "$type": "dimension",
+        "$value": "14px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Shape",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "codeSyntax": {
+              "WEB": "var(--radius-frame) /* 0.875rem */"
+            }
+          }
+        }
+      },
+      "shot": {
+        "$type": "dimension",
+        "$value": "10px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Shape",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "codeSyntax": {
+              "WEB": "0.625rem (.frame--inset img)"
+            }
+          }
+        }
+      },
+      "focus": {
+        "$type": "dimension",
+        "$value": "6px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Shape",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "codeSyntax": {
+              "WEB": "6px (:focus-visible)"
+            }
+          }
+        }
+      },
+      "pill": {
+        "$type": "dimension",
+        "$value": "999px",
+        "$extensions": {
+          "figma": {
+            "collection": "Portfolio · Shape",
+            "scopes": [
+              "CORNER_RADIUS"
+            ],
+            "codeSyntax": {
+              "WEB": "rounded-full / 999px"
+            }
+          }
+        }
+      }
+    },
+    "border": {
+      "width": {
+        "default": {
+          "$type": "dimension",
+          "$value": "1px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Shape",
+              "scopes": [
+                "STROKE_FLOAT"
+              ],
+              "codeSyntax": {
+                "WEB": "border (1px)"
+              }
+            }
+          }
+        },
+        "focus": {
+          "$type": "dimension",
+          "$value": "2px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Shape",
+              "scopes": [
+                "STROKE_FLOAT"
+              ],
+              "codeSyntax": {
+                "WEB": "outline: 2px solid"
+              }
+            }
+          }
+        },
+        "avatar": {
+          "$type": "dimension",
+          "$value": "4px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Shape",
+              "scopes": [
+                "STROKE_FLOAT"
+              ],
+              "codeSyntax": {
+                "WEB": "border-4"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "typography": {
+    "font": {
+      "family": {
+        "sans": {
+          "$type": "fontFamily",
+          "$value": "Inter",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_FAMILY"
+              ],
+              "codeSyntax": {
+                "WEB": "var(--font-sans) /* 'Inter Variable' */"
+              }
+            }
+          }
+        }
+      },
+      "weight": {
+        "regular": {
+          "$type": "fontWeight",
+          "$value": 400,
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {
+                "WEB": "font-weight: 400"
+              }
+            }
+          }
+        },
+        "medium": {
+          "$type": "fontWeight",
+          "$value": 500,
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {
+                "WEB": "font-weight: 500"
+              }
+            }
+          }
+        },
+        "semibold": {
+          "$type": "fontWeight",
+          "$value": 600,
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_STYLE"
+              ],
+              "codeSyntax": {
+                "WEB": "font-weight: 600"
+              }
+            }
+          }
+        }
+      },
+      "size": {
+        "13": {
+          "$type": "dimension",
+          "$value": "13px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "0.8rem (12.8px)"
+              }
+            }
+          }
+        },
+        "14": {
+          "$type": "dimension",
+          "$value": "14px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "0.875rem"
+              }
+            }
+          }
+        },
+        "15": {
+          "$type": "dimension",
+          "$value": "15px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "0.95rem (15.2px)"
+              }
+            }
+          }
+        },
+        "16": {
+          "$type": "dimension",
+          "$value": "16px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1rem"
+              }
+            }
+          }
+        },
+        "17": {
+          "$type": "dimension",
+          "$value": "17px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.05rem (16.8px)"
+              }
+            }
+          }
+        },
+        "18": {
+          "$type": "dimension",
+          "$value": "18px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.15rem (18.4px)"
+              }
+            }
+          }
+        },
+        "19": {
+          "$type": "dimension",
+          "$value": "19px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.2rem (19.2px)"
+              }
+            }
+          }
+        },
+        "21": {
+          "$type": "dimension",
+          "$value": "21px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.35rem (21.6px)"
+              }
+            }
+          }
+        },
+        "24": {
+          "$type": "dimension",
+          "$value": "24px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.5rem"
+              }
+            }
+          }
+        },
+        "26": {
+          "$type": "dimension",
+          "$value": "26px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.6rem (25.6px)"
+              }
+            }
+          }
+        },
+        "28": {
+          "$type": "dimension",
+          "$value": "28px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.7rem–1.8rem (27.2–28.8px)"
+              }
+            }
+          }
+        },
+        "30": {
+          "$type": "dimension",
+          "$value": "30px",
+          "$extensions": {
+            "figma": {
+              "collection": "Portfolio · Typography",
+              "scopes": [
+                "FONT_SIZE"
+              ],
+              "codeSyntax": {
+                "WEB": "1.85rem (29.6px)"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "textStyles": {
+    "display": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "30px",
+          "lineHeight": "36px",
+          "letterSpacing": "-1.9%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "display/lg",
+            "fontSizeVariable": "font/size/30",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      }
+    },
+    "heading": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "28px",
+          "lineHeight": "34px",
+          "letterSpacing": "-2%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "heading/lg",
+            "fontSizeVariable": "font/size/28",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "24px",
+          "lineHeight": "29px",
+          "letterSpacing": "-2%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "heading/md",
+            "fontSizeVariable": "font/size/24",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "21px",
+          "lineHeight": "25px",
+          "letterSpacing": "-1.9%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "heading/sm",
+            "fontSizeVariable": "font/size/21",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      },
+      "xs": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "19px",
+          "lineHeight": "23px",
+          "letterSpacing": "-1.9%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "heading/xs",
+            "fontSizeVariable": "font/size/19",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      }
+    },
+    "title": {
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "18px",
+          "lineHeight": "22px",
+          "letterSpacing": "-2%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "title/md",
+            "fontSizeVariable": "font/size/18",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "17px",
+          "lineHeight": "20px",
+          "letterSpacing": "-1.9%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "title/sm",
+            "fontSizeVariable": "font/size/17",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      }
+    },
+    "stat": {
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "26px",
+          "lineHeight": "31px",
+          "letterSpacing": "-3%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "stat/md",
+            "fontSizeVariable": "font/size/26",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      }
+    },
+    "body": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 400,
+          "fontSize": "17px",
+          "lineHeight": "27px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "body/lg",
+            "fontSizeVariable": "font/size/17",
+            "fontStyleVariable": "font/weight/regular"
+          }
+        }
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 400,
+          "fontSize": "16px",
+          "lineHeight": "26px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "body/md",
+            "fontSizeVariable": "font/size/16",
+            "fontStyleVariable": "font/weight/regular"
+          }
+        }
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 400,
+          "fontSize": "15px",
+          "lineHeight": "24px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "body/sm",
+            "fontSizeVariable": "font/size/15",
+            "fontStyleVariable": "font/weight/regular"
+          }
+        }
+      }
+    },
+    "label": {
+      "xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 500,
+          "fontSize": "16px",
+          "lineHeight": "26px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "label/xl",
+            "fontSizeVariable": "font/size/16",
+            "fontStyleVariable": "font/weight/medium"
+          }
+        }
+      },
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 600,
+          "fontSize": "15px",
+          "lineHeight": "20px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "label/lg",
+            "fontSizeVariable": "font/size/15",
+            "fontStyleVariable": "font/weight/semibold"
+          }
+        }
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 500,
+          "fontSize": "15px",
+          "lineHeight": "20px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "label/md",
+            "fontSizeVariable": "font/size/15",
+            "fontStyleVariable": "font/weight/medium"
+          }
+        }
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 500,
+          "fontSize": "14px",
+          "lineHeight": "19px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "label/sm",
+            "fontSizeVariable": "font/size/14",
+            "fontStyleVariable": "font/weight/medium"
+          }
+        }
+      },
+      "xs": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 500,
+          "fontSize": "13px",
+          "lineHeight": "17px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "label/xs",
+            "fontSizeVariable": "font/size/13",
+            "fontStyleVariable": "font/weight/medium"
+          }
+        }
+      }
+    },
+    "meta": {
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{typography.font.family.sans}",
+          "fontWeight": 400,
+          "fontSize": "14px",
+          "lineHeight": "22px",
+          "letterSpacing": "0%"
+        },
+        "$extensions": {
+          "figma": {
+            "style": "meta/md",
+            "fontSizeVariable": "font/size/14",
+            "fontStyleVariable": "font/weight/regular"
+          }
+        }
+      }
+    }
+  },
+  "shadows": {
+    "shadow": {
+      "shell": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "2px",
+            "spread": "0px",
+            "color": "#00000008"
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "style": "shadow/shell"
+          }
+        }
+      },
+      "card-hover": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "offsetX": "0px",
+            "offsetY": "2px",
+            "blur": "10px",
+            "spread": "0px",
+            "color": "#0000000b"
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "style": "shadow/card-hover"
+          }
+        }
+      },
+      "shot": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "2px",
+            "spread": "0px",
+            "color": "#0000000f"
+          },
+          {
+            "offsetX": "0px",
+            "offsetY": "12px",
+            "blur": "28px",
+            "spread": "-12px",
+            "color": "#00000047"
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "style": "shadow/shot"
+          }
+        }
+      },
+      "avatar": {
+        "$type": "shadow",
+        "$value": [
+          {
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "3px",
+            "spread": "0px",
+            "color": "#00000014"
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "style": "shadow/avatar"
+          }
+        }
+      }
+    }
+  },
+  "gradients": {
+    "gradient": {
+      "hero-band": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#f3f7de",
+            "position": 0.0
+          },
+          {
+            "color": "#fbf0d6",
+            "position": 0.48
+          },
+          {
+            "color": "#f8e6ee",
+            "position": 1.0
+          }
+        ],
+        "$extensions": {
+          "figma": {
+            "style": "gradient/hero-band",
+            "css": "linear-gradient(140deg, #f3f7de 0%, #fbf0d6 48%, #f8e6ee 100%)"
+          }
+        }
+      },
+      "bed": {
+        "cyan": {
+          "$type": "gradient",
+          "$value": [
+            {
+              "color": "#ebfafa",
+              "position": 0.0
+            },
+            {
+              "color": "#ffffff",
+              "position": 0.88
+            }
+          ],
+          "$extensions": {
+            "figma": {
+              "style": "gradient/bed/cyan",
+              "css": "linear-gradient(170deg, #ebfafa 0%, #ffffff 88%)"
+            }
+          }
+        },
+        "amber": {
+          "$type": "gradient",
+          "$value": [
+            {
+              "color": "#fffbf3",
+              "position": 0.0
+            },
+            {
+              "color": "#ffffff",
+              "position": 0.88
+            }
+          ],
+          "$extensions": {
+            "figma": {
+              "style": "gradient/bed/amber",
+              "css": "linear-gradient(170deg, #fffbf3 0%, #ffffff 88%)"
+            }
+          }
+        },
+        "pink": {
+          "$type": "gradient",
+          "$value": [
+            {
+              "color": "#fff2fb",
+              "position": 0.0
+            },
+            {
+              "color": "#ffffff",
+              "position": 0.88
+            }
+          ],
+          "$extensions": {
+            "figma": {
+              "style": "gradient/bed/pink",
+              "css": "linear-gradient(170deg, #fff2fb 0%, #ffffff 88%)"
+            }
+          }
+        },
+        "indigo": {
+          "$type": "gradient",
+          "$value": [
+            {
+              "color": "#f3f2f9",
+              "position": 0.0
+            },
+            {
+              "color": "#ffffff",
+              "position": 0.88
+            }
+          ],
+          "$extensions": {
+            "figma": {
+              "style": "gradient/bed/indigo",
+              "css": "linear-gradient(170deg, #f3f2f9 0%, #ffffff 88%)"
+            }
+          }
+        },
+        "green": {
+          "$type": "gradient",
+          "$value": [
+            {
+              "color": "#effaf3",
+              "position": 0.0
+            },
+            {
+              "color": "#ffffff",
+              "position": 0.88
+            }
+          ],
+          "$extensions": {
+            "figma": {
+              "style": "gradient/bed/green",
+              "css": "linear-gradient(170deg, #effaf3 0%, #ffffff 88%)"
+            }
+          }
+        }
+      }
+    }
+  }
+}
